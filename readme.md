@@ -107,6 +107,7 @@ Many people ask me how to start in the field of steganography/covert channels or
 * https://github.com/cryptolok/SteCoSteg
 * https://github.com/cedricbonhomme/Stegano
 * https://github.com/ragibson/Steganography/tree/master/stego_lsb
+* https://github.com/rickschaves/stegostudio - STEGO·STUDIO: free, open-source, client-side image steganography and forensics tool. Hides, analyzes and recovers hidden data, including support for several third-party steganography formats. Works entirely in the browser and offline.
 
 # Steganalysis tools
 * http://vsl.sourceforge.net/
